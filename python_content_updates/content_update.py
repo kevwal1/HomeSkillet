@@ -28,6 +28,7 @@ import argparse
 import sys
 import time
 import pan.xapi
+import random
 
 
 def get_job_id(s):
